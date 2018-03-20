@@ -251,11 +251,7 @@
 		text-align: center;
 		font-weight: 900;
 		font-size: 2.5cm;
-	}
-	
-	#logo h1 a
-	{
-	}
+	}	
 
 	#logo span
 	{
@@ -267,9 +263,15 @@
 		
 	}
 	
-	#logo a 
+	#logo h1 a 
 	{
-		color: #2364ba;
+		first-letter color: #2364ba;
+		second-letter color: #2364ba;
+		third-letter color: #ef1404;
+		fourth-letter color: #ef1404;
+		fifth-letter color: #ef1404;
+		sixth-letter color: #2364ba;
+		seventh-letter color: #2364ba;
 	}
 
 
