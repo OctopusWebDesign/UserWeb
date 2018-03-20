@@ -265,13 +265,8 @@
 	
 	#logo h1 a 
 	{
-		first-letter color: #2364ba;
-		second-letter color: #2364ba;
-		third-letter color: #ef1404;
-		fourth-letter color: #ef1404;
-		fifth-letter color: #ef1404;
-		sixth-letter color: #2364ba;
-		seventh-letter color: #2364ba;
+		color: #2364ba;
+
 	}
 
 
