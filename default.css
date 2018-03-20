@@ -250,7 +250,7 @@
 	{
 		text-align: center;
 		font-weight: 900;
-		font-size: 2.5em;
+		font-size: 2.5cm;
 	}
 	
 	#logo h1 a
@@ -259,7 +259,7 @@
 
 	#logo span
 	{
-		padding: 0em 0em 0em 0.5cm;
+		padding: 0em 0em 0em 0.5em;
 	}
 	
 	#logo h1:before
