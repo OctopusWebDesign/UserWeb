@@ -15,7 +15,7 @@
 	}
 	
 	
-	h1, h2, h3
+	h1, h2, h3, h4
 	{
 		margin: 0;
 		padding: 0;
@@ -224,19 +224,7 @@
 	
 	.button:before
 	{
-		display: inline-block;
-		margin: 1em 0em;
-		border-color: #e0dede
-		padding: 1em 3em 1em 3em;
-		background: #FFF;
-		border-radius: 8px;
-		letter-spacing: 0.20em;
-		text-decoration: none;
-		text-align: center;
-		text-transform: uppercase;
-		font-weight: 400;
-		font-size: 0.90em;
-		color: #FFF;		
+	
 	}
 		
 /*********************************************************************************/
@@ -246,6 +234,11 @@
 	#header
 	{
 		background: #ef1404;
+	}
+	
+	#header h4
+	{
+		background: #2364ba;
 	}
 
 /*********************************************************************************/
