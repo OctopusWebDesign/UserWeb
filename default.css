@@ -242,9 +242,9 @@
 	}
 	#search-box 
 	{
-  		font-size: 13px;
-  		width: 120px;
-  		background: #E6E6E6 url('/images/search.gif') no-repeat 3px 3px;
+  		font-size: 20px;
+  		width: 1000px;
+  		background: #FFF url('/images/search.gif') no-repeat 3px 3px;
   		padding: 3px 3px 3px 22px;
 	}
 
