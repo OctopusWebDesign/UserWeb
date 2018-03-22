@@ -419,7 +419,7 @@
 	}
 
 /*********************************************************************************/
-/* Featured             #fff200 yellow                                                         */
+/* Featured             #ffe900 yellow                                                         */
 /*********************************************************************************/
 
 	#featured-wrapper
@@ -438,7 +438,7 @@
 	{
 		position: relative;
 		display: block;
-		background: #fff200;
+		background: #ffe900;
 		margin: 0px auto 20px auto;
 		line-height: 2.5em;
 		font-size: 4em;
